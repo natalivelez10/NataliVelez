@@ -1,0 +1,22 @@
+.title{
+    color: aqua;
+    font-weight: 600;
+    text-align: center;
+}
+
+.segundo{
+    color: blue;
+    text-align: center;
+}
+
+.Imagen1{
+    width: 400px;
+    height: 400px;
+}
+
+.ContainerImagen{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
